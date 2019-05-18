@@ -1,0 +1,11 @@
+.fas {
+  cursor: pointer;
+}
+.fa-times {
+  color: red;
+  float: right;
+}
+.fa-pencil-alt {
+  float: right;
+  margin-right: 30px;
+}
