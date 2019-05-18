@@ -2,7 +2,7 @@
   "name": "contactmanager",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://amritpoudel11.github.io/contactmanager",
+  "homepage": "https://amritpoudel11.github.io/contactManager-ReactApp",
   "dependencies": {
     "axios": "^0.18.0",
     "bootstrap": "^4.3.1",
